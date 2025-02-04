@@ -23,7 +23,7 @@
 <p align="left">✨. Creating bugs since 2024 – because even bugs need someone to create them!<br>📚. I'm currently learning diving deeper into ReactJS and backend nodejs and expressjs. best practices while exploring also this<br>🎯. Goals , To master Front-End development, contribute to open-source projects, and create impactful web applications that people love to use.<br>🎲. Fun fact , I love traveling, exploring new place !</p>
 
 ###
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=highcontrast&border_radius=6.3&card_width=500" alt="GitHub Streak" /></a>Front-End
+
 <h3 align="left">I code with</h3>
 
 ###
