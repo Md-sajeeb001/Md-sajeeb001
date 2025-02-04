@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨. Creating bugs since 2024 – because even bugs need someone to create them!<br><br>📚. I'm currently learning diving deeper into ReactJS and backend nodejs and expressjs. best practices while exploring also this<br><br>🎯. Goals , To master full-stack development, contribute to open-source projects, and create impactful web applications that people love to use.<br><br>🎲. Fun fact , I love traveling, exploring food, and sleeping – life pretty much revolves around these three!</p>
+<p align="left">✨. Creating bugs since 2024 – because even bugs need someone to create them!<br><br>📚. I'm currently learning diving deeper into ReactJS and backend nodejs and expressjs. best practices while exploring also this<br><br>🎯. Goals , To master Front-End development, contribute to open-source projects, and create impactful web applications that people love to use.<br><br>🎲. Fun fact , I love traveling, exploring food, and sleeping – life pretty much revolves around these three!</p>
 
 ###
 
