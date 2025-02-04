@@ -1,8 +1,11 @@
 
-<p align="center">
-  <img width="60%" src="https://your-image-url.com/image.jpg" />
-</p>
+# Sajeeb - Frontend Developer
 
+<img src="https://your-image-url.com/image.jpg" alt="Sajeeb - Frontend Developer" width="100%" />
+
+## Contact
+📞 **Phone:** +8801817397967  
+📧 **Email:** mohammadsajeeb@gmail.com
 
 ###
 
