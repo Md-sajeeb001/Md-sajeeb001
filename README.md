@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="center">I code with</h3>
+<h3 align="center">programming language</h3>
 
 ###
 
