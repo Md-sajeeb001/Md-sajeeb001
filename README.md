@@ -103,10 +103,6 @@
 
 ###
 
-<h3 align="center">Social Links</h3>
-
-###
-
 <h2 align="center">Tools</h2>
 
 ###
