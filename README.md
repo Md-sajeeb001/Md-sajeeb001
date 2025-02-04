@@ -1,11 +1,4 @@
 
-# Sajeeb - Frontend Developer
-
-<img src="https://your-image-url.com/image.jpg" alt="Sajeeb - Frontend Developer" width="100%" />
-
-## Contact
-📞 **Phone:** +8801817397967  
-📧 **Email:** mohammadsajeeb@gmail.com
 
 ###
 
@@ -33,7 +26,7 @@
 
 ###
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -56,7 +49,26 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       </a>
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+      </a>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" 
+       alt="tailwindcss logo"  />
+      </a>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui 
+       logo"  />
+    </td>
+  </tr>
+</table>
+<table>
+     <td align="center" width="96">
       <a href="#macropower-tech" >
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  
        />
@@ -77,23 +89,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
       </a>
     </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-      </a>
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" 
-       alt="tailwindcss logo"  />
-      </a>
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui 
-       logo"  />
-    </td>
-  </tr>
 </table>
 
 ###
