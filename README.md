@@ -4,27 +4,27 @@
 
 ###
 
-<h1 align="left">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
+<h1 align="center">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
 
 ###
 
-<h2 align="left">Front-End Developer</h2>
+<h2 align="center">Front-End Developer</h2>
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
-<p align="left">I'm Md Sajeeb, a passionate Front-End Web Developer with a love for building creative, beautiful, user-friendly, and dynamic web applications. As a fresher in web development, I’ve dedicated my time to mastering technologies and frameworks that bring ideas to life on the web.</p>
+<p align="center">I'm Md Sajeeb, a passionate Front-End Web Developer with a love for building creative, beautiful, user-friendly, and dynamic web applications. As a fresher in web development, I’ve dedicated my time to mastering technologies and frameworks that bring ideas to life on the web.</p>
 
 ###
 
-<p align="left">✨. Creating bugs since 2024 – because even bugs need someone to create them!<br>📚. I'm currently learning diving deeper into ReactJS and backend nodejs and expressjs. best practices while exploring also this<br>🎯. Goals , To master Front-End development, contribute to open-source projects, and create impactful web applications that people love to use.<br>🎲. Fun fact , I love traveling, exploring new place !</p>
+<p align="center">✨. Creating bugs since 2024 – because even bugs need someone to create them!<br>📚. I'm currently learning diving deeper into ReactJS and backend nodejs and expressjs. best practices while exploring also this<br>🎯. Goals , To master Front-End development, contribute to open-source projects, and create impactful web applications that people love to use.<br>🎲. Fun fact , I love traveling, exploring new place !</p>
 
 ###
 
-<h3 align="left">I code with</h3>
+<h3 align="center">I code with</h3>
 
 ###
 
@@ -51,7 +51,6 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       </a>
     </td>
-    <br>
     <td align="center" width="96">
       <a href="#macropower-tech" >
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  
