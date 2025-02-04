@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="300" width="100%" objetct="cover" src="https://i.ibb.co.com/S5S2sYz/istockphoto-1356364268-612x612.jpg"  />
+  <img height="300" width="100%" src="https://i.ibb.co.com/S5S2sYz/istockphoto-1356364268-612x612.jpg"  />
 </div>
 
 <h1 align="center">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
