@@ -34,7 +34,7 @@
 
 ###
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -59,7 +59,7 @@
     </td>
   </tr>
 </table>
-<table align="center">
+<table align="left">
      <td align="center" width="96">
       <a href="#macropower-tech" >
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  
@@ -82,7 +82,7 @@
       </a>
     </td>
 </table>
-<table align="center">
+<table align="left">
    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -103,11 +103,11 @@
 
 ###
 
-<h2 align="center">Tools</h2>
+<h2 align="left">Tools</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
