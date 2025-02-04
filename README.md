@@ -3,19 +3,19 @@
   <img height="300" width="100%" src="https://i.ibb.co.com/S5S2sYz/istockphoto-1356364268-612x612.jpg"  />
 </div>
 
-<h1 align="center">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
+<h1 align="left">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
 
 ####
 
-<h2 align="center">Front-End Developer</h2>
+<h2 align="left">Front-End Developer</h2>
 
 ###
 
-<h3 align="center">About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="center">I'm Md Sajeeb, a passionate Front-End Web Developer with a love for building creative, beautiful, user-friendly, and dynamic web applications. As a fresher in web development, I’ve dedicated my time to mastering technologies and frameworks that bring ideas to life on the web.</p>
+<p align="left">I'm Md Sajeeb, a passionate Front-End Web Developer with a love for building creative, beautiful, user-friendly, and dynamic web applications. As a fresher in web development, I’ve dedicated my time to mastering technologies and frameworks that bring ideas to life on the web.</p>
 
 ###
 
