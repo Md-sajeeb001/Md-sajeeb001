@@ -49,25 +49,9 @@
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       </a>
     </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-      </a>
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" 
-       alt="tailwindcss logo"  />
-      </a>
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui 
-       logo"  />
-    </td>
   </tr>
 </table>
-<table>
+<table align="center">
      <td align="center" width="96">
       <a href="#macropower-tech" >
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  
@@ -88,6 +72,24 @@
       <a href="#macropower-tech" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
       </a>
+    </td>
+</table>
+<table align="center">
+   <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+      </a>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" 
+       alt="tailwindcss logo"  />
+      </a>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui 
+       logo"  />
     </td>
 </table>
 
