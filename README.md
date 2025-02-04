@@ -1,11 +1,8 @@
 
-# Sajeeb - Frontend Developer
+<p align="center">
+  <img width="60%" src="https://your-image-url.com/image.jpg" />
+</p>
 
-![Sajeeb](https://your-image-url.com/image.jpg)
-
-## Contact
-📞 **Phone:** +8801817397967  
-📧 **Email:** mohammadsajeeb@gmail.com
 
 ###
 
