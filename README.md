@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Full-Stack-Developer</h2>
+<h2 align="left">Front-End Developer</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Md Sajeeb, a passionate Full-Stack Web Developer with a love for building creative, beautiful, user-friendly, and dynamic web applications. As a fresher in web development, I’ve dedicated my time to mastering technologies and frameworks that bring ideas to life on the web.</p>
+<p align="left">I'm Md Sajeeb, a passionate Front-End Web Developer with a love for building creative, beautiful, user-friendly, and dynamic web applications. As a fresher in web development, I’ve dedicated my time to mastering technologies and frameworks that bring ideas to life on the web.</p>
 
 ###
 
