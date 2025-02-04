@@ -60,6 +60,7 @@
   </tr>
 </table>
 <table align="left">
+  <tr>
      <td align="center" width="96">
       <a href="#macropower-tech" >
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  
@@ -81,8 +82,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
       </a>
     </td>
+    </tr>
 </table>
 <table align="left">
+  <tr>
    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -99,6 +102,7 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui 
        logo"  />
     </td>
+    </tr>
 </table>
 
 ###
