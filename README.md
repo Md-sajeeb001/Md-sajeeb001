@@ -3,8 +3,6 @@
   <img height="300" width="100%" src="https://i.ibb.co.com/S5S2sYz/istockphoto-1356364268-612x612.jpg"  />
 </div>
 
-![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[https://twitter.com/sakshamtaneja00](https://x.com/twitter?lang=en))
-
 <h1 align="center">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
 
 ####
