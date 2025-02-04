@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img height="300" src="https://i.ibb.co.com/S5S2sYz/istockphoto-1356364268-612x612.jpg"  />
+</div>
+
 <h1 align="center">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
 
 ####
@@ -95,9 +100,13 @@
 
 ###
 
-<div align="center">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/md-sajeeb-0b4a1731b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/saj.eeb.306309" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
 
