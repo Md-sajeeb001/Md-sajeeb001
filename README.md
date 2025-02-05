@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
-<a href="https://x.com/mdSajeeb010101" target="_blank">
+<a href="https://www.linkedin.com/in/md-sajeeb-wd" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
