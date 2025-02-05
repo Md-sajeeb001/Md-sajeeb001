@@ -41,7 +41,7 @@
 
 <br/>
 
-## :chart_with_upwards_trend: Current Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 <br/>
 
