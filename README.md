@@ -13,12 +13,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
- <a href="https://wa.me/254747237927" title="Whatsapp">
- <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/> 
- </a>
-
-<a href="https://johnmwendwa.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" /></a>
-
 <h1 align="left">Hi, I'm Mohammad Sajeeb 👋 👨🏻‍💻</h1>
 
 ####
