@@ -3,6 +3,8 @@
   <img height="300" width="100%" src="https://i.ibb.co.com/S5S2sYz/istockphoto-1356364268-612x612.jpg"  />
 </div>
 
+<br/>
+
 <a href="https://www.facebook.com/saj.eeb.306309" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
@@ -31,7 +33,11 @@
 
 ###
 
+<br/>
+
 ## :chart_with_upwards_trend: Current Stats
+
+<br/>
 
 <br clear="both">
 
