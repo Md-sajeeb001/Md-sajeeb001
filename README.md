@@ -40,10 +40,6 @@
 
 ###
 
-<h3 align="left">Programming Language</h3>
-
-###
-
 ## :computer: Technologies that I know
 
 <br>
@@ -56,9 +52,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
